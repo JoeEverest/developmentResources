@@ -61,8 +61,8 @@ UI & UX Design
     
 
 1.  [Inroduction](https://www.youtube.com/watch?v=OK_JCtrrv-c)
-2.  [Laravel (Playlist)](https://www.youtube.com/watch?v=EU7PRmCpx-0&list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ-)
-3.  [MVC in PHP](https://www.youtube.com/watch?v=OsCTzGASImQ&list=PLfdtiltiRHWGXVHXX09fxXDi-DqInchFD)
+2.  [MVC in PHP](https://www.youtube.com/watch?v=OsCTzGASImQ&list=PLfdtiltiRHWGXVHXX09fxXDi-DqInchFD)
+3.  [Laravel (Playlist)](https://www.youtube.com/watch?v=EU7PRmCpx-0&list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ-)
 
 *   ### Javascript
     
